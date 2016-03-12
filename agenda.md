@@ -3,8 +3,8 @@
 
 | Horário | Atividade | Responsável  |
 |---------|-----------|--------------|
-| 13h | Abertura e Apresentação                     | Afonso |
-| 14h | Workshop Introdução ao Arduino              | Afonso |
-| 15h | Coding Dojo - Fazendo Desafios              | Afonso |
-| 16h | Bate-Papo sobre o Movimento e Cultura Maker | Afonso |
-| 18h | Amostra de Projetos com Arduino             | Afonso |
+| 11h | Abertura e Apresentação                     | Afonso |
+| 12h | Workshop Introdução ao Arduino              | Afonso |
+| 13h | Coding Dojo - Fazendo Desafios              | Afonso |
+| 14h | Bate-Papo sobre o Movimento e Cultura Maker | Afonso |
+| 16h | Projetos com Arduino - Venha com o seu!     | Afonso |
