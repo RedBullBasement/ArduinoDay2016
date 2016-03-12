@@ -1,5 +1,5 @@
--- Agenda Arduino Day 2016 no Red Bull Basement 
--- Data: 2 de Abril de 2016
+#Agenda Arduino Day 2016 no Red Bull Basement 
+#Data: 2 de Abril de 2016
 | Horário | Atividade | Responsável  |
 |-----|-------|-------|
 | 13h | Abertura e Apresentação | Afonso |
