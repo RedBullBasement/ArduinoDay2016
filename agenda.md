@@ -17,3 +17,4 @@
 | 13h | Coding Dojo - Fazendo Desafios              | Um coding dojo usando a programação Arduino com as pessoas que estiverem no espaço, é um ótimo momento para aprender e saber as dicas e truques da linguagem. | Afonso | None     |
 | 14h | Bate-Papo sobre o Movimento e Cultura Maker | Será uma "mesa redonda" sobre o movimento maker e o cenário do maker no Brasil | Afonso | None     |
 | 16h | Projetos com Arduino - Venha com o seu!     | Traga seu robô, projeto ou protiotipo, será um momento pra mostrar o que andam fazendo e pra pedir ajuda. | Afonso | None     |
+| 17h | Finalização | Indicação de continuar o Arduino Day no Garoa Hacker Clube | | |
