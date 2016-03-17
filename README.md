@@ -1,4 +1,5 @@
-# ArduinoDay2016
+# Genuino Day 2016
+![Genuino Day 2016](GENUINODAY_banner_720x300.jpg)
 
 **O evento será no nosso Makerspace e será aberto a todos.**
 - Local: Red Bull Station, Praça da Bandeira, 137, Centro, SP
