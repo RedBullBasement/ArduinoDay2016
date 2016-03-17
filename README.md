@@ -6,8 +6,6 @@
 - Horário: 11:00h as 17:00h
 - Agenda: [Clique aqui](agenda.md)
 
-Red Bull Basement
-O que é?
 
 Red Bull Basement é um espaço de produção, pesquisa e difusão de projetos que exploram formas colaborativas de experimentação com mídias digitais. Um espaço de colaboração e troca entre pessoas e coletivos com diferentes perfis: programadores, hackers, desenvolvedores de software e makers.
 
