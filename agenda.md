@@ -1,9 +1,12 @@
-#Agenda Arduino Day 2016 no Red Bull Basement
+# Genuino Day 2016
+![Genuino Day 2016](GENUINODAY_banner_720x300.jpg)
+
+#Agenda Genuino Day 2016 no Red Bull Basement
 #Data: 2 de Abril de 2016
 
 **O evento será no nosso Makerspace e será aberto a todos.**
 - Local: Red Bull Station, Praça da Bandeira, 137, Centro, SP
-- Instruções: Quando chegar dizer que vai participar do Arduino Day no Basement e/ou falar com Afonso
+- Instruções: Quando chegar dizer que vai participar do Arduino/Genuino Day no Basement e/ou falar com Afonso
 - Horário: 11:00h as 17:00h
 - Sobre o Red Bull Basement: [Clique aqui](README.md)
 
